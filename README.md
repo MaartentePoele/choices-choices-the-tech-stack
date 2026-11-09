@@ -2,7 +2,8 @@
 
 Onderzoek een andere tech-stack voor het ontwerpen en bouwen van een website voor een opdrachtgever.
 
-De instructie vind je in de [Wiki]([https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/wiki))
+De instructie vind je in de [Wiki](https://github.com/fdnd-task/choices-choices-the-tech-stack/wiki)
+
 
 
 
